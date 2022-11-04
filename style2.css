@@ -57,7 +57,7 @@ html, body {
     text-align: center;
     margin: 0;
     font-size: 4em;
-    font-family: "Booter - Zero Zero";
+    font-family: "";
     font-weight: normal;
     color: white;
 }
@@ -76,7 +76,7 @@ html, body {
     padding: 0 1.5em;
 }
 .section-header {
-    font-family: "Metal Mania";
+    font-family: "";
     font-weight: normal;
     color: #333;
     text-align: center;
